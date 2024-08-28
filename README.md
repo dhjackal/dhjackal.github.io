@@ -1,2 +1,2 @@
-# dhjackal.github.io
-My blog
+# idea-goggles
+Webpage
