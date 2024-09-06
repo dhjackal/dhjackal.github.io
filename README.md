@@ -1,3 +1,21 @@
+# Some new stuff....including a gif....hopefully
+
+# Your Repository Name
+
+![Noob](https://raw.githubusercontent.com/yourusername/yourrepository/master/noob.gif)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+
+## Introduction
+
+Welcome to my profile! I'm a Noob. That was a Noob reminder! A reminder than I am still a noob and to stay humble, stay teachable and keep learning. Another reminder.....learn to listen and listen to learn. 
+
+[Rest of your README content...]
+
 # Portfolio Template
 
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
