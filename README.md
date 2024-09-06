@@ -2,7 +2,7 @@
 
 # Your Repository Name
 
-![Noob](https://raw.githubusercontent.com/yourusername/yourrepository/master/noob.gif)
+![Noob](https://github.com/dhjackal/dhjackal.github.io/blob/main/th-2877039727.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
